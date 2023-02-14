@@ -54,9 +54,9 @@ global.mods = []
 global.prems = []
 global.nomorbot = '6283863727740'
 global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorown = '6285730659421'
+global.nomorown1 = '6285730659421'
+global.nomorown2 = '6285730659421'
 global.nomorwa = '0'
 global.limitawal = {
 
